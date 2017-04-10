@@ -26,11 +26,9 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>
-#include <netinet/udp.h>
 #include <netdb.h>
 #include <time.h>
 #include <sys/time.h>
-#include <errno.h>
 #include <unistd.h>
 #define SNAP_LEN 116
 pcap_t *hpcap;
