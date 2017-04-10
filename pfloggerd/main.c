@@ -2,8 +2,10 @@
 //  main.c
 //  pfloggerd
 //
-//  Created by opossum on 05/04/2017.
-//  Copyright © 2017 opossum. All rights reserved.
+//  Created by The Murus Team
+//  www.murusfirewall.com
+//  Original code by Davide Feroldi
+//  05/04/2017.
 //
 
 #include <pcap.h>
